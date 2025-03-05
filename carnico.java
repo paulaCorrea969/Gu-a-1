@@ -1,4 +1,4 @@
-public class Lacteo extends Producto {
-    public Lacteo(int codigo, String nombre, String fechaExpiracion, String fabricante, int cantidadInventario, double precioUnitario) {
-        super(codigo, nombre, "LACTEO", fechaExpiracion, fabricante, cantidadInventario, precioUnitario);
+public class Carnico extends Producto {
+    public Carnico(int codigo, String nombre, String fechaExpiracion, String fabricante, int cantidadInventario, double precioUnitario) {
+        super(codigo, nombre, "CARNICO", fechaExpiracion, fabricante, cantidadInventario, precioUnitario);
     }
